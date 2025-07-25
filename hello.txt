@@ -24,3 +24,32 @@ print()
 print('\tRaja Shekar') 
 print('\tPavan surya')
 print()
+
+#6
+a=10
+b=20
+c=30
+print("My First Number is:",a)
+print("My Second Number is:",b)
+print("My Third number is:",c)
+
+#7
+java=int(input("int java = "))
+python=int(input("int python = "))
+database=int(input("int database = "))
+WebDevelopment=int(input("int WebDevelopment = "))
+DotNet=int(input("int DotNet = "))
+print("My Java marks is:",java)
+print("My python marks is:",python)
+print("My database marks is:",database)
+print("WebDevelopment marks is:",WebDevelopment)
+print("DotNet marks is:",DotNet)
+print()
+
+#8
+A=int(input("a="))
+B=int(input("b="))
+C=int(input("c="))
+print(A)
+print(B)
+print(C)
